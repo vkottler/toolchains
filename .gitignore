@@ -1,0 +1,6 @@
+venv*
+*-out
+.*_cache
+build
+mklocal
+tasks
