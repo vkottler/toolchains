@@ -1,0 +1,4 @@
+.config.*
+build.log
+arm-picolibc-eabi
+out

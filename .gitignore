@@ -5,3 +5,4 @@ build
 mklocal
 tasks
 third-party
+dist
