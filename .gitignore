@@ -4,3 +4,4 @@ venv*
 build
 mklocal
 tasks
+third-party
