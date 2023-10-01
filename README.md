@@ -10,7 +10,8 @@ Toolchains are built with [crosstool-ng](https://crosstool-ng.github.io/)
 I configure toolchains around an option from `ct-ng list-samples` (like any
 mere mortal would...).
 
-Current toolchain configurations in this project:
+Current toolchain configurations in this project (names match `ct-ng` sample
+base):
 * [arm-picolibc-eabi](arm-picolibc-eabi/.config) - A bare-metal ARM toolchain
 
 ## Releases
